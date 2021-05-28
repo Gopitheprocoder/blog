@@ -1,0 +1,73 @@
+.travel_MainDiv {
+    border: 1px solid #c7c7c7;
+}
+
+.travel_MainDiv img {
+    width: 100%;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.env {
+    margin-top: 15px;
+}
+
+.env_li h4 {
+    padding: 8px;
+    border-bottom: 1px solid white;
+}
+
+.env_li img {
+    border-radius: 25px;
+}
+
+.env_li p {
+    margin-top: 10px;
+}
+
+#am iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 {
+    text-shadow: none;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
